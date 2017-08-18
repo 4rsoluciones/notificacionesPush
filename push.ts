@@ -56,6 +56,8 @@ export class PushFactory {
     this.pushObject.on('notification').subscribe(customFunction);
   }
 
+  //TODO: funcion para desregistrarse (al hacer logout o no querer recibir mas notificaciones)
+
 
 }
 

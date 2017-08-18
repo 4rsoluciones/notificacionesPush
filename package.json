@@ -1,0 +1,9 @@
+{
+	"name": "@4r/notificacionesPush",
+	"version": "0.0.1",
+	"author": "4r Soluciones S.R.L.",
+	"scripts": { },
+	"dependencies": {},
+	"devDependencies": { },
+ 	"main": "push.ts"  
+ }
